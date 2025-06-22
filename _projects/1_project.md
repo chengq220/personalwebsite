@@ -28,13 +28,13 @@ Each agent will traverse a grid map with deliverables marked in dark blue and dr
 Taking the above map as an example, the path that agents implemented using different algorithms took are shown below
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project1_showcase1.webp" title="Path for A*" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/img/project1_showcase1.webp" alt="Path for A*" class="img-fluid rounded z-depth-1" loading="eager">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project1_showcase2.webp" title="Path for MDP" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/img/project1_showcase2.webp" alt="Path for MDP" class="img-fluid rounded z-depth-1" loading="eager">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project1_showcase3.webp" title="Path for CSP" class="img-fluid rounded z-depth-1" %}
+        <img src="/assets/img/project1_showcase3.webp" alt="Path for CSP" class="img-fluid rounded z-depth-1" loading="eager">
     </div>
 </div>
 <div class="caption">
