@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MREK - Music Recommendation System
-description: Redirects to MREK page
+description: Full Stack Music Recommendation Using Content Filter
 img: assets/img/reddot.ico
 redirect: https://mrek.vercel.app/
 importance: 1

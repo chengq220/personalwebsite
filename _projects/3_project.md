@@ -3,7 +3,6 @@ layout: page
 title: Medical Segmentation
 description: Research project on medical segmenetation using U-Net
 img: assets/img/project_medical_backup.png
-# redirect: https://github.com/chengq220/Hybrid_UNet
 importance: 3
 category: research
 related_publications: false

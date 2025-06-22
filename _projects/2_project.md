@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Spam Text Detection
-description: Simple web application to detect whether given text is a spam or not
-img: assets/img/project_spam.jpg
-importance: 3
+title: ContentSense
+description: Lightweight content moderation extension for Google Chrome
+img: assets/img/extension_icon.png
+importance: 2
 category: other
 related_publications: false
 ---
 
-With the exponential growth of digital communication, email and messaging platforms have become indispensable tools for both personal and professional interactions. However, this widespread usage has also led to an overwhelming influx of unwanted or malicious content, commonly referred to as spam. Spam messages not only clutter inboxes but often pose significant risks, such as phishing attacks or malware distribution. To address this challenge, automated systems for spam detection have become a necessity. These systems aim to classify text as either spam or legitimate content, enabling users to maintain secure and organized communication channels. This project focuses on leveraging Naive Bayes algorithm to determine whether a given text is spam or not, offering a robust solution to enhance digital safety and efficiency. Note: This was a learning experience to implement a full-stack application with front-end done in reactJS and backend in Django.
+With the exponential growth of digital communication, platforms face increasing challenges in moderating harmful, offensive, or inappropriate content at scale. ContentSense is a real-time content moderation system designed to detect and flag unsafe text across websites. Built as a Chrome extension, it leverages the Google Extension API to scan front-end content directly within the user's browser. Upon detecting text input, the extension sends it to a neural network-based model hosted on a backend server, which performs fast and accurate analysis to classify the content as either appropriate or unsafe. The system then provides immediate feedback to the user, promoting safer online interactions. This project also served as a hands-on experience in deploying a full-stack AI application, combining Google Extension API for the extension interface, FastAPI for the backend, and deep learning techniques for content classification.
 
 
 The project can be accessed at:
 
     ---
-    https://github.com/chengq220/spam_filter
+    https://github.com/chengq220/ContentSense
     ---

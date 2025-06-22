@@ -3,7 +3,7 @@ layout: page
 title: Drone Delivery Path Optimization
 description: Optimize delivery of packages using algorithms like A*, MDP, etc.
 img: assets/img/drone.jpg
-importance: 2
+importance: 3
 category: other
 related_publications: false
 ---
