@@ -11,10 +11,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. Computer Science
+      institution: Stony Brook University, New York, United States
+      year: 2025 - 2030 (expected)
     - title: Bachelor of Arts
       institution: Vanderbilt University, Tennessee, United States
       year: 2022 - 2025
-  
     - title: Bachelor of Science (Transferred)
       institution: Syracuse University, New York, United States
       year: 2021 - 2022
@@ -37,18 +39,21 @@
 - title: Projects
   type: time_table
   contents:
+    - title: MREK - Music Recommendation
+    - year: 2025
+
+    - title: ContentSense
+    - year: 2025
+
     - title: Facial Emotion Recognition
     - year: 2024
-
-    - title: Spam Filter Classifier
-    - year: 2023
 
 - title: Work Experiences
   type: time_table
   contents:
     - title: Computer Vision Engineer
       institution: Kangrui
-      year: 2024 - Present
+      year: 2024 
 
     - title: Computer Vision Intern
       institution: Sengoic
