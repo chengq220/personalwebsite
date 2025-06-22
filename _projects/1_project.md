@@ -38,7 +38,7 @@ Taking the above map as an example, the path that agents implemented using diffe
     </div>
 </div>
 <div class="caption">
-     Figure 2. On the left is the path taken using A* algorithm. Middle is the path taken using MDP. Right, On the right is the path taken using CSP.
+     Figure 2. On the left is the path taken using the A* algorithm. The middle is the path taken using MDP. On the right is the path taken using CSP.
 </div>
 
 <div class="row justify-content-sm-center">
@@ -65,7 +65,7 @@ Taking the above map as an example, the path that agents implemented using diffe
      Figure 4. The performance of the three algorithms on example Map 2
 </div>
 
-Base on Figure 3 and 4, for Map 1, A* algorithm achieved the best score of 70 while MDP achieved the lowest score of 60. Given that Map 1 is a simplistic map with very few optimal paths from each pick-up point to drop-off points, A* should intuitively be more optimal since A* is a shortest path algorithm. For Map 2, CSP achieved the highest rewards of 205 while MDP and A* achieved rewards of 193. This could be the result of the fact that these two algorithms are superior at adapting to a dynamic environment.
+Based on Figures 3 and 4, for Map 1, the A* algorithm achieved the best score of 70 while MDP achieved the lowest score of 60. Given that Map 1 is a simplistic map with few optimal paths from each pick-up point to drop-off points, A* should intuitively be more optimal since A* is a shortest path algorithm. For Map 2, CSP achieved the highest rewards of 205 while MDP and A* achieved rewards of 193. This could result from the fact that these two algorithms are superior at adapting to a dynamic environment.
 
 
 For more information about the project, the project page can be accessed at:
