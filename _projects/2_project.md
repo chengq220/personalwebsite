@@ -3,7 +3,7 @@ layout: page
 title: Spam Text Detection
 description: Simple web application to detect whether given text is a spam or not
 img: assets/img/project_spam.jpg
-importance: 2
+importance: 3
 category: other
 related_publications: false
 ---
