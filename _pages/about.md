@@ -8,7 +8,7 @@ profile:
   image: chengq.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>516 58TH ST</p>
+    <p>Sunset Park/p>
     <p>Brooklyn, New York</p>
 
 news: true # includes a list of news items
