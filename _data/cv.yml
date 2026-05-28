@@ -51,7 +51,11 @@
 - title: Work Experiences
   type: time_table
   contents:
-    - title: Computer Vision Engineer
+    - title: Machine Learning Engineer Intern
+      institution: The Aerospace Corporation
+      year: 2026 
+      
+    - title: Computer Vision Engineer Intern
       institution: Kangrui
       year: 2024 
 
